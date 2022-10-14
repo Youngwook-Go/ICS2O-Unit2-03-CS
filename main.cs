@@ -14,7 +14,7 @@ class Program
 
         Console.Write("Enter your street number: ");
         streetNumber = Convert.ToInt32(Console.ReadLine());
-        
+
         Console.Write("Enter your street name: ");
         streetName = Console.ReadLine();
 
